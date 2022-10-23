@@ -1,0 +1,31 @@
+.emogi {
+
+
+    letter-spacing: 10px;
+    color: white;
+    font-size: 20px;
+
+}
+
+
+body {
+    background-color: rgb(158, 14, 110);
+}
+
+.play {
+    color: white;
+    font-size: 20px;
+}
+
+span {
+    font-size: 20px;
+}
+
+#RRR {
+    color: white;
+}
+
+#PPP {
+   color: white;
+   font-size: 20px;
+}
